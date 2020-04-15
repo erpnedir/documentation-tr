@@ -1,4 +1,4 @@
-Kurulları
+Panolar
 =========
 
 Her bir proje için, görevler birkaç görünümle görselleştirilebilir:
@@ -47,7 +47,7 @@ Proje Görünümü
 Daraltılmış ve Genişletilmiş mod
 --------------------------------
 
-Tahtadaki görevler daraltılmış veya genişletilmiş modda
+Panodaki görevler daraltılmış veya genişletilmiş modda
 görüntülenebilir. Bir görünümden diğerine geçmek, **“s”** klavye
 kısayoluyla veya soldaki açılır menüyü kullanarak yapılabilir.
 
